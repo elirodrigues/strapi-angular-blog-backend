@@ -1,4 +1,4 @@
-# Strapi-Angular-Blog-Backend
+# Strapi Angular Blog Backend
 
 An instance of Strapi applied to a simple Blog structure.
 
