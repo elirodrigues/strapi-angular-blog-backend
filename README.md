@@ -20,6 +20,6 @@ Its basically Strapi, but in the API folder you can find 2 entities: Category an
 
 ## Final words
 
-Don't forget to download the other/pair project, the Front-end in Angular
+Don't forget to download the other/pair project, the Front-end in Angular, available at https://github.com/elirodrigues/strapi-angular-blog
 
 Eli
